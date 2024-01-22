@@ -1,0 +1,32 @@
+.tablo {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  .tabloo{
+    padding: 200px 0;
+  }
+  .tablo th, .tablo td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .tablo th {
+    background-color: #f2f2f2;
+  }
+  
+  .tablo td button {
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  
+  .ekle-form {
+    margin-top: 20px;
+  }
+  
+  .ekle-form input {
+    margin-right: 10px;
+    padding: 8px;
+  }
+  
