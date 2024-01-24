@@ -1,6 +1,6 @@
 import './App.css';
 import Navbar from './components/navbar/navbar';
-import TabloComponent from './components/table/tabe';
+import TabloComponent from './components/table/table';
 
 function App() {
   return (
