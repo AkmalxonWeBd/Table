@@ -76,7 +76,7 @@ const TabloComponent = () => {
     <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
       <div className="button">
         <input
-          className="search input"
+          className="search_input"
           type="text"
           placeholder="search..."
           value={searchValue}
