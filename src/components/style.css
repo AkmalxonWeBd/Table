@@ -1,0 +1,12 @@
+.button {
+    padding: 100px 0 0 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.button button:hover {
+    transform: rotateY(1);
+    background-color: rgb(0, 0, 85);
+}
